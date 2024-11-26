@@ -1,0 +1,26 @@
+/*mySite*/
+body {
+  width: 50%;
+  margin-top: 5em;
+  margin-left: 15em;
+  text-align: left;
+  font: 20px, helvetica, serif;
+}
+
+h2 {
+  margin-top: 3rem;
+}
+
+p::first-letter {
+  float: left;
+  font-size: 45px;
+  line-height: 1;
+  font-weight: bold;
+  margin-right: 5px;
+}
+
+.parallel {
+  color: red;
+  font-weight: bold;
+  background-color: yellow;
+}
