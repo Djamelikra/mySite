@@ -1,0 +1,16 @@
+# Ignorer tous les fichiers qui commencent par
+.*
+# Ignorer Tous les fichiers d'extensions
+.tmp
+.*docx
+.xlsb
+.one
+# Ignorer les fichiers temporaires
+*~
+# Ignorer les fichiers générés par le compilateur
+*.class
+# Ignorer le contenu des dossiers
+/WorkItems
+/Temp
+
+
