@@ -1,10 +1,11 @@
 # Ignorer tous les fichiers qui commencent par
 .*
 # Ignorer Tous les fichiers d'extensions
-.tmp
-.*docx
-.xlsb
-.one
+*.tmp
+*.docx
+*.xlsx
+*.xlsb
+*.one
 # Ignorer les fichiers temporaires
 *~
 # Ignorer les fichiers générés par le compilateur
